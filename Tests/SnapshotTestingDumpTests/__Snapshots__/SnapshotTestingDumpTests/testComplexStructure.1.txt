@@ -1,0 +1,11 @@
+SnapshotTestingDumpTests.User(
+  name: "John",
+  email: "john@me.com",
+  age: 97,
+  friends: [
+    [0]: "James",
+    [1]: "Lilly",
+    [2]: "Peter",
+    [3]: "Remus"
+  ]
+)

@@ -1,2 +1,3 @@
 # swift-snapshot-testing-dump
-A plugin to use swift-custom-dump with swift-snapshot-testing
+
+A plugin for `swift-snapshot-testing` that combines it with `swift-custom-dump` to be able to produce textual snapshots of model objects.

@@ -1,0 +1,4 @@
+SnapshotTestingDumpTests.Doctor(
+  field: "Podiatry",
+  level: "Expert"
+)

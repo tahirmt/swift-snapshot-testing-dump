@@ -1,0 +1,22 @@
+SnapshotTestingDumpTests.Parent(
+  children: [
+    [0]: SnapshotTestingDumpTests.Child(
+      parent: SnapshotTestingDumpTests.Parent(↩︎)
+    ),
+    [1]: SnapshotTestingDumpTests.Child(
+      parent: SnapshotTestingDumpTests.Parent(↩︎)
+    ),
+    [2]: SnapshotTestingDumpTests.Child(
+      parent: SnapshotTestingDumpTests.Parent(↩︎)
+    ),
+    [3]: SnapshotTestingDumpTests.Child(
+      parent: SnapshotTestingDumpTests.Parent(↩︎)
+    ),
+    [4]: SnapshotTestingDumpTests.Child(
+      parent: SnapshotTestingDumpTests.Parent(↩︎)
+    ),
+    [5]: SnapshotTestingDumpTests.Child(
+      parent: SnapshotTestingDumpTests.Parent(↩︎)
+    )
+  ]
+)

@@ -1,0 +1,5 @@
+SnapshotTestingDumpTests.User(
+  name: "John",
+  email: "john@me.com",
+  age: 97
+)
