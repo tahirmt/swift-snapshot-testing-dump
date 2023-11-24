@@ -1,4 +1,7 @@
 SnapshotTestingDumpTests.Doctor(
+  name: "John",
+  email: "john@me.com",
+  age: 97,
   field: "Podiatry",
   level: "Expert"
 )
