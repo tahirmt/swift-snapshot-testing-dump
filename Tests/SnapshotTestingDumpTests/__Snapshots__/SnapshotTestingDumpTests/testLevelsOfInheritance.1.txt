@@ -1,1 +1,5 @@
-SnapshotTestingDumpTests.TruckDriver(truckType: "Loader")
+SnapshotTestingDumpTests.TruckDriver(
+  name: "Jimmy",
+  wheels: 6,
+  truckType: "Loader"
+)
