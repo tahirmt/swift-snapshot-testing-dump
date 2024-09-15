@@ -5,23 +5,23 @@ SnapshotTestingDumpTests.Parent(
       name: "Virginia",
       parent: SnapshotTestingDumpTests.Parent(↩︎)
     ),
-    [1]: SnapshotTestingDumpTests.Child#2(
+    [1]: #1 SnapshotTestingDumpTests.Child(
       name: "Ronald",
       parent: SnapshotTestingDumpTests.Parent(↩︎)
     ),
-    [2]: SnapshotTestingDumpTests.Child#3(
+    [2]: #2 SnapshotTestingDumpTests.Child(
       name: "Fred",
       parent: SnapshotTestingDumpTests.Parent(↩︎)
     ),
-    [3]: SnapshotTestingDumpTests.Child#4(
+    [3]: #3 SnapshotTestingDumpTests.Child(
       name: "George",
       parent: SnapshotTestingDumpTests.Parent(↩︎)
     ),
-    [4]: SnapshotTestingDumpTests.Child#5(
+    [4]: #4 SnapshotTestingDumpTests.Child(
       name: "Percy",
       parent: SnapshotTestingDumpTests.Parent(↩︎)
     ),
-    [5]: SnapshotTestingDumpTests.Child#6(
+    [5]: #5 SnapshotTestingDumpTests.Child(
       name: "Charles",
       parent: SnapshotTestingDumpTests.Parent(↩︎)
     )
