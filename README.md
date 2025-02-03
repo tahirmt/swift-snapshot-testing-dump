@@ -1,5 +1,7 @@
 # swift-snapshot-testing-dump
 
+**Note:** This plugins is now deprecated. Please use `SnapshotTestingCustomDump` library directly from [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing). For more details refer to the original [pull request](https://github.com/pointfreeco/swift-snapshot-testing/pull/948)
+
 A plugin for [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) that combines it with [swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump/) to be able to produce textual snapshots of model objects.
 
 ### Usage
